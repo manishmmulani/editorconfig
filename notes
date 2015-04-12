@@ -1,0 +1,15 @@
+EditorConfig
+
+https://github.com/sindresorhus/editorconfig-sublime#readme
+
+1. Install EditorConfig using package control and restart sublime
+CTRL + SHIFT + P, Install Package, EditorConfig
+
+2. Create ".editorConfig" file with the required settings.
+
+
+HTML/JS/CSS - prettify
+
+.jsbeautifyrc file (directory containing src file to be prettified or its parent and so on or home directory)
+Check right click -> HTML/JS/CSS Prettify -> Set Prettify settings
+Shortcut : CTRL + SHIFT + H
